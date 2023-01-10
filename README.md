@@ -1,4 +1,3 @@
-# Cockify
 This is going to be a time tracking, ideally also a habi tracking, programm inspired by Clockify.
 
 The lack of features and customizability bothered me and it's something I use daily, so it's a great choice for a personal project.
